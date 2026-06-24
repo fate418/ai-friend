@@ -77,8 +77,8 @@ python-dotenv
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/your-username/heart-ai-companion.git
-cd heart-ai-companion
+git clone https://github.com/fate418/ai-friend.git
+cd ai-friend
 ```
 
 2. **安装依赖**
@@ -208,12 +208,12 @@ MIT许可证允许用户自由使用、修改和分发本软件，但需保留�
 
 - **作者**：117m80
 - **邮箱**：zxy1314520145@qq.com
-- **GitHub**：[https://github.com/117m80](https://github.com/117m80)
+- **GitHub**：[https://github.com/fate418/](https://github.com/fate418)
 ### 反馈与建议
 
 如果你有任何问题、建议或反馈，欢迎通过以下方式联系我们：
 
-- 提交 [Issue](https://github.com/117m80/heart-ai-companion/issues)
+- 提交 [Issue](https://github.com/fate418/ai-friend/issues)
 - 发送邮件至项目维护者
 
 ---
