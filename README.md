@@ -128,16 +128,15 @@ streamlit run heart_ai.py
 ```
 心有灵犀(ai智能伴侣)/
 ├── heart_ai.py          # 主程序文件
+├── requirements.txt     # 依赖包列表
 ├── .env.example         # 环境变量配置示例文件
 ├── .env                 # 环境变量配置文件（需自行创建）
+├── .gitignore           # Git忽略文件配置
 ├── README.md            # 项目说明文档
 ├── resouce/             # 资源文件夹
-│   ├── head_imge.jpg    # 头像图片
-│   ├── lougo.jpg        # Logo图片
-│   └── lougo2.jpg       # 备用Logo
-├── sessions/            # 对话存储文件夹
-│   └── *.json           # 对话记录文件
-└── 对话存储文件.txt       # 说明文件
+│   └── head_imge.jpg    # 头像图片
+└── sessions/            # 对话存储文件夹（自动创建）
+    └── *.json           # 对话记录文件
 ```
 
 ### 核心模块说明
